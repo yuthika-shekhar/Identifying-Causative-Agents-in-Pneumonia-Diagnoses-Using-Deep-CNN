@@ -1,4 +1,4 @@
-### Identifying-Causative-Agents-in-Pneumonia-Diagnoses-Using-Deep-CNN
+### Identifying Causative Agents in Pneumonia Diagnoses Using Deep CNN
 
 This project proposed a Deep Convolutional Neural Network (DCNN) based framework for the diagnosis of viral or bacterial pneumonia. Pneumonia causes death of around 700,000 children every year and affects a large percentage of global population. There is a pressing need to expedite the diagnosis process, improve the accuracy and identify the causative agent in the infection to determine the course of treatment. While most of the existing research succeeds in predicting the disease, in this work, we detect the type of pneumonia by examining chest X-ray images of infants which are often not detected by radiologists through the naked eye. In addition to that, this work studies the visual patterns in chest radiographs and how each type of pneumonia deviates from normalcy. The proposed model succeeds in identifying the causative agent with a sensitivity of 87% and a specificity of 93.25%.
 
